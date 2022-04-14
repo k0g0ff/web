@@ -13,7 +13,7 @@
 	<br>
  <p>Введите кол-во протонов (порядковый номер): <input type="number" class="proton"></p>
  <p>Введите кол-во нейтронов (масса - пор. номер): <input type="number" class="neitron"></p>
- <p>Введите массу ядра (из конца задачника): <input type="number" class="yadr"></p>
+ <p>Введите массу ядра (из конца задачника. ВАЖНО!!! ВВОДИТЕ ДЕСЯТИЧНУЮ ДРОБЬ НЕ ЧЕРЕЗ ЗАПЯТУЮ, А ЧЕРЕЗ ТОЧКУ): <input type="number" class="yadr"></p>
  <button>Расчитать</button>
  <br>
 <script src="script.js"></script>
