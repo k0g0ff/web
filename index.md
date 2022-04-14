@@ -8,7 +8,7 @@
 		<link rel="shortcut icon" href="https://w7.pngwing.com/pngs/165/985/png-transparent-atomic-theory-carbon-atomic-mass-chemical-element-atom-symmetry-chemistry-subatomic-particle.png"/>
 	</head>
 	<body>
-		<h1>Альфа и бета распады (AHK)</h1>
+		<h1>Альфа и бета распады (WEB)</h1>
 	<p>На этом сайте вы можете проводить <b><em>альфа</em> и <em>бета</em> распады</b></p>
 	<br>
 	<form action="action.php" method="post">
