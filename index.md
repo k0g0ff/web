@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>Дефект массы</title>
@@ -19,6 +20,8 @@
  <br>
  <h2 class="title">Решение и ответ:</h2>
  <div class="text">
+ΔE=mc<sup>2</sup><br>
+Δm=(Z*m<sub>p</sub> + N*m<sub>n</sub>) - M<sub>я</sub>
  <div class="out1"></div>
  <br>
  <div class="out2"></div>
